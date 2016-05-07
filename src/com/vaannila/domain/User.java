@@ -4,6 +4,7 @@ public class User {
 
 	private String name;
 	private String password;
+	private String addresss;
 	private String gender;
 	private String country;
 	private String aboutYou;
